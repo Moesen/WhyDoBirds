@@ -1,5 +1,5 @@
 # https://www.toptal.com/developers/gitignore can generate .gitignore for many filetypes
-
+build/
 *.acn
 *.acr
 *.alg
