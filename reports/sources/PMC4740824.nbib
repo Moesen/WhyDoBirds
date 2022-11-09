@@ -1,0 +1,142 @@
+PMID- 26877689
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20160215
+LR  - 20200930
+IS  - 1313-2989 (Print)
+IS  - 1313-2970 (Electronic)
+IS  - 1313-2970 (Linking)
+IP  - 555
+DP  - 2016
+TI  - GPS tracking data of Lesser Black-backed Gulls and Herring Gulls breeding at the 
+      southern North Sea coast.
+PG  - 115-24
+LID - 10.3897/zookeys.555.6173 [doi]
+AB  - In this data paper, Bird tracking - GPS tracking of Lesser Black-backed Gulls and 
+      Herring Gulls breeding at the southern North Sea coast is described, a species 
+      occurrence dataset published by the Research Institute for Nature and Forest 
+      (INBO). The dataset (version 5.5) contains close to 2.5 million occurrences, 
+      recorded by 101 GPS trackers mounted on 75 Lesser Black-backed Gulls and 26 
+      Herring Gulls breeding at the Belgian and Dutch coast. The trackers were 
+      developed by the University of Amsterdam Bird Tracking System (UvA-BiTS, 
+      http://www.uva-bits.nl). These automatically record and transmit bird movements, 
+      which allows us and others to study their habitat use and migration behaviour in 
+      great detail. Our bird tracking network is operational since 2013. It is funded 
+      for LifeWatch by the Hercules Foundation and maintained in collaboration with 
+      UvA-BiTS and the Flanders Marine Institute (VLIZ). The recorded data are 
+      periodically released in bulk as open data 
+      (http://dataset.inbo.be/bird-tracking-gull-occurrences), and are also accessible 
+      through CartoDB and the Global Biodiversity Information Facility (GBIF).
+FAU - Stienen, Eric W M
+AU  - Stienen EW
+AD  - Research Institute for Nature and Forest (INBO), Kliniekstraat 25, 1070, 
+      Brussels, Belgium.
+FAU - Desmet, Peter
+AU  - Desmet P
+AD  - Research Institute for Nature and Forest (INBO), Kliniekstraat 25, 1070, 
+      Brussels, Belgium.
+FAU - Aelterman, Bart
+AU  - Aelterman B
+AD  - Research Institute for Nature and Forest (INBO), Kliniekstraat 25, 1070, 
+      Brussels, Belgium.
+FAU - Courtens, Wouter
+AU  - Courtens W
+AD  - Research Institute for Nature and Forest (INBO), Kliniekstraat 25, 1070, 
+      Brussels, Belgium.
+FAU - Feys, Simon
+AU  - Feys S
+AD  - Research Institute for Nature and Forest (INBO), Kliniekstraat 25, 1070, 
+      Brussels, Belgium; Ethology (ETHO), University of Antwerp, Universiteitsplein 1, 
+      2610, Antwerp, Belgium.
+FAU - Vanermen, Nicolas
+AU  - Vanermen N
+AD  - Research Institute for Nature and Forest (INBO), Kliniekstraat 25, 1070, 
+      Brussels, Belgium.
+FAU - Verstraete, Hilbran
+AU  - Verstraete H
+AD  - Research Institute for Nature and Forest (INBO), Kliniekstraat 25, 1070, 
+      Brussels, Belgium.
+FAU - de Walle, Marc Van
+AU  - de Walle MV
+AD  - Research Institute for Nature and Forest (INBO), Kliniekstraat 25, 1070, 
+      Brussels, Belgium.
+FAU - Deneudt, Klaas
+AU  - Deneudt K
+AD  - Flanders Marine Institute (VLIZ), Wandelaarkaai 7, 8400, Ostend, Belgium.
+FAU - Hernandez, Francisco
+AU  - Hernandez F
+AD  - Flanders Marine Institute (VLIZ), Wandelaarkaai 7, 8400, Ostend, Belgium.
+FAU - Houthoofdt, Robin
+AU  - Houthoofdt R
+AD  - Flanders Marine Institute (VLIZ), Wandelaarkaai 7, 8400, Ostend, Belgium.
+FAU - Vanhoorne, Bart
+AU  - Vanhoorne B
+AD  - Flanders Marine Institute (VLIZ), Wandelaarkaai 7, 8400, Ostend, Belgium.
+FAU - Bouten, Willem
+AU  - Bouten W
+AD  - Institute for Biodiversity and Ecosystem Dynamics (IBED), University of 
+      Amsterdam, Science Park 904, 1098 XH, Amsterdam, The Netherlands.
+FAU - Buijs, Roland-Jan
+AU  - Buijs RJ
+AD  - Buijs Eco Consult B.V., Philips van Dorpstraat 49, 4698 RV, Oud-Vossemeer, The 
+      Netherlands.
+FAU - Kavelaars, Marwa M
+AU  - Kavelaars MM
+AD  - Ethology (ETHO), University of Antwerp, Universiteitsplein 1, 2610, Antwerp, 
+      Belgium; Terrestrial Ecology Unit (TEREC), Ghent University, K.L. Ledeganckstraat 
+      35, 9000, Ghent, Belgium.
+FAU - Müller, Wendt
+AU  - Müller W
+AD  - Ethology (ETHO), University of Antwerp, Universiteitsplein 1, 2610, Antwerp, 
+      Belgium.
+FAU - Herman, David
+AU  - Herman D
+AD  - Terrestrial Ecology Unit (TEREC), Ghent University, K.L. Ledeganckstraat 35, 
+      9000, Ghent, Belgium.
+FAU - Matheve, Hans
+AU  - Matheve H
+AD  - Terrestrial Ecology Unit (TEREC), Ghent University, K.L. Ledeganckstraat 35, 
+      9000, Ghent, Belgium.
+FAU - Sotillo, Alejandro
+AU  - Sotillo A
+AD  - Terrestrial Ecology Unit (TEREC), Ghent University, K.L. Ledeganckstraat 35, 
+      9000, Ghent, Belgium.
+FAU - Lens, Luc
+AU  - Lens L
+AD  - Terrestrial Ecology Unit (TEREC), Ghent University, K.L. Ledeganckstraat 35, 
+      9000, Ghent, Belgium.
+LA  - eng
+PT  - Journal Article
+DEP - 20160120
+TA  - Zookeys
+JT  - ZooKeys
+JID - 101497933
+PMC - PMC4740824
+OTO - NOTNLM
+OT  - GPS tracking
+OT  - Herring Gull
+OT  - Larus argentatus
+OT  - Larus fuscus
+OT  - Lesser Black-backed Gull
+OT  - LifeWatch
+OT  - MachineObservation
+OT  - UvA-BiTS
+OT  - animal movement
+OT  - bird tracking
+OT  - habitat use
+OT  - migration
+OT  - observation
+OT  - occurrence
+OT  - open data
+EDAT- 2016/02/16 06:00
+MHDA- 2016/02/16 06:01
+CRDT- 2016/02/16 06:00
+PHST- 2015/08/11 00:00 [received]
+PHST- 2015/12/13 00:00 [accepted]
+PHST- 2016/02/16 06:00 [entrez]
+PHST- 2016/02/16 06:00 [pubmed]
+PHST- 2016/02/16 06:01 [medline]
+AID - 10.3897/zookeys.555.6173 [doi]
+PST - epublish
+SO  - Zookeys. 2016 Jan 20;(555):115-24. doi: 10.3897/zookeys.555.6173. eCollection 
+      2016.
