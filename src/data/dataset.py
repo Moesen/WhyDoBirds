@@ -1,17 +1,18 @@
 from pathlib import Path
 import pandas as pd
+import numpy as np
 from src.data.birdcols import BirdColumns as BC
 from src import data_processed_path
 from abc import ABC, abstractmethod
 
 
-class AbstractDataset(ABC):
+class BaseDataset(ABC):
     @abstractmethod
-    def get_row(self) -> pd.Series:
+    def get_data(self) -> np.ndarray:
         pass
 
 
-class BirdDataset(AbstractDataset):
+class BirdDataset(BaseDataset):
     def __init__(
         self,
         data_path: Path,
@@ -19,10 +20,18 @@ class BirdDataset(AbstractDataset):
     ) -> None:
         cols = [x.value for x in cols]
         df = pd.read_csv(data_path, sep="\t")
-        self.df = df[cols]
 
-    def get_row(self) -> pd.Series:
+        self.cols = cols
+        self.df: pd.DataFrame = df[cols]
+
+    def standardise(self) -> None:
         raise NotImplementedError
+
+    def normalise(self) -> None:
+        raise NotImplementedError
+
+    def get_data(self) -> np.ndarray:
+        return self.df.to_numpy()
 
 
 if __name__ == "__main__":
