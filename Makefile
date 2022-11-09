@@ -13,3 +13,8 @@ processed:
 	head -n 10001 data/raw/LBBG_ZEEBRUGGE/occurrence.txt > data/processed/10000/LBBG_ZEEBRUGGE.txt
 	head -n 100001 data/raw/HK_OOSTENDE/occurrence.txt > data/processed/100000/HK_OOSTENDE.txt
 	head -n 100001 data/raw/LBBG_ZEEBRUGGE/occurrence.txt > data/processed/100000/LBBG_ZEEBRUGGE.txt
+
+pyclean:
+	find . -type f -name "*.py[co]" -delete
+	find . -type d -name "__pycache__" -delete
+
